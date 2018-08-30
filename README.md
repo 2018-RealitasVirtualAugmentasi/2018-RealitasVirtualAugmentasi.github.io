@@ -5,8 +5,10 @@
    * **Topik Penelitian**: CyberSecurity, Internet of Things, Smart City, Automation
 * **Asisten:** -
 * **Pengurus Kelas:** 
-   * **Ketua**: 
-   * **Wakil**: 
+   * **Ketua**: Son Ardhynata S M
+   * **Wakil**: Rafidah Rafalia
+   * **Sekretaris**: Andrean Januar P
+   * **Bendahara**: Yolanda W S
 * **Jumlah Pertemuan:** 16 pertemuan, masing-masing: 3 SKS
 * **Butuh bantuan?**
    * Lihat [issues](https://github.com/2018-RealitasVirtualAugmentasi/2018-RealitasVirtualAugmentasi.github.io/issues) yang ada atau buat _issue_ baru.
@@ -26,7 +28,7 @@ Adapun bahan kajian atau pokok bahasan dalam kuliah ini:
 * Pengenalan Augmented Reality dan Virtual Reality
 * Register Github
 * Ujicoba upload tugas ke Github
-* Survei berbagai macam Augmented Reality SDK
+* Cari dan survei berbagai macam Augmented Reality SDK
 
 ### Pertemuan 2
 * Demo simple project Augmented Reality
@@ -35,7 +37,7 @@ Adapun bahan kajian atau pokok bahasan dalam kuliah ini:
 * ...
 
 ## Tugas
-### Tugas 1 (individu)
+### Tugas 1 (individu) https://classroom.github.com/a/WymG98b6
 * Deadline: 05-09-2018
 * Lakukan ujicoba pull, add, commit, push ke GIT
 * Buat 1 simple project Augmented Reality dengan SDK pilihan masing-masing
