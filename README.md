@@ -23,21 +23,22 @@ Adapun bahan kajian atau pokok bahasan dalam kuliah ini:
 ### Pertemuan 1
 * Perkenalan
 * Peraturan kelas
-* Referensi yang digunakan
+* Pengenalan Augmented Reality dan Virtual Reality
 * Register Github
 * Ujicoba upload tugas ke Github
+* Survei berbagai macam Augmented Reality SDK
 
 ### Pertemuan 2
-* ...
+* Demo simple project Augmented Reality
 
 ### Pertemuan 3
 * ...
 
 ## Tugas
-### Tugas 1
+### Tugas 1 (individu)
 * Deadline: 05-09-2018
 * Lakukan ujicoba pull, add, commit, push ke GIT
-* Buat 1 buah ....
+* Buat 1 simple project Augmented Reality dengan SDK pilihan masing-masing
 
 * Bacaan Wajib:
   * Learn GIT di https://www.codecademy.com/learn/paths/web-development
