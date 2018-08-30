@@ -1,25 +1,22 @@
-# Silabus Struktur Data
+# Silabus Realitas Virtual dan Augmentasi
 
-* **Mata Kuliah:** Pemrograman Web
+* **Mata Kuliah:** Realitas Virtual dan Augmentasi
 * **Dosen:** Ridho Rahman Hariadi, S.Kom, M.Sc (ridho@if.its.ac.id)
    * **Topik Penelitian**: CyberSecurity, Internet of Things, Smart City, Automation
-* **Asisten:** Djohan Prabowo (djohan.prabowo1927@gmail.com)
+* **Asisten:** -
 * **Pengurus Kelas:** 
-   * **Ketua**: Mhd. Fadly Hasan 5111740000078
-   * **Wakil**: RM Ivan Indrakusuma 5111740000060
+   * **Ketua**: 
+   * **Wakil**: 
 * **Jumlah Pertemuan:** 16 pertemuan, masing-masing: 3 SKS
 * **Butuh bantuan?**
-   * Lihat [issues](https://github.com/2018-PemrogramanWeb-D/syllabus/issues) yang ada atau buat _issue_ baru.
-   * Melalui grup LINE.
+   * Lihat [issues](https://github.com/2018-RealitasVirtualAugmentasi/2018-RealitasVirtualAugmentasi.github.io/issues) yang ada atau buat _issue_ baru.
+   * Melalui grup.
    * Kirim email ke dosen atau asisten untuk diskusi/konsultasi.
 
 ## Bahan Kajian / Pokok Bahasan
 Adapun bahan kajian atau pokok bahasan dalam kuliah ini:
-* GIT
-* HTML
-* CSS
-* JS
-* PHP
+* Augmented Reality
+* Virtual Reality
 * etc
 
 ## Materi Kuliah
@@ -27,38 +24,35 @@ Adapun bahan kajian atau pokok bahasan dalam kuliah ini:
 * Perkenalan
 * Peraturan kelas
 * Referensi yang digunakan
-* Register Github, CodeCademy, SekolahKoding
+* Register Github
 * Ujicoba upload tugas ke Github
 
 ### Pertemuan 2
-* GIT, HTML
+* ...
 
 ### Pertemuan 3
 * ...
 
 ## Tugas
 ### Tugas 1
-* Deadline: 04-09-2018
+* Deadline: 05-09-2018
 * Lakukan ujicoba pull, add, commit, push ke GIT
-* Buat 1 buah halaman HTML yang berisi _link, image, table, form_
+* Buat 1 buah ....
 
 * Bacaan Wajib:
-  * Learn HTML di https://www.codecademy.com/learn/paths/web-development
   * Learn GIT di https://www.codecademy.com/learn/paths/web-development
-  * https://www.sekolahkoding.com/kelas/belajar-html-dari-dasar
   * https://www.sekolahkoding.com/kelas/apa-itu-git/video/commit-pertama
 * Bacaan Tambahan:
-  * https://www.sekolahkoding.com/track/mulai-belajar-website-frontend
-  * https://www.codecademy.com/learn/paths/web-development
 
 ### Tugas 2
-* Deadline: 11-09-2018
+* Deadline: 12-09-2018
 
 ### Tugas 3
-* Deadline: 18-09-2018
+* Deadline: 19-09-2018
 
 ## Peraturan Kelas
 * Kelas ini menerapkan Student Centered Learning (SCL).
+* Pada setiap pertemuan akan diberikan tugas.
 * Semua tindakan plagiarisme akan mendapat hukuman berupa nilai 0.
 * Tidak diperbolehkan menggunakan semua jenis alat elektronik (ponsel, laptop, dll) di kelas kecuali mendapat ijin dari dosen.
 
@@ -74,6 +68,5 @@ Kegiatan menjiplak, mengkopi, meniru, mencontek, atau mengambil hasil pekerjaan,
 
 ## Referensi
 * www.Github.com
-* www.w3schools.com
 * www.CodeCademy.com
 * www.SekolahKoding.com
