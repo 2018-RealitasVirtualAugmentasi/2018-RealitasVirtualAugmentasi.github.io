@@ -1,6 +1,6 @@
 # Silabus Realitas Virtual dan Augmentasi
 
-* **Mata Kuliah:** Realitas Virtual dan Augmentasi
+* **Mata Kuliah:** IF184932 Realitas Virtual dan Augmentasi 
 * **Dosen:** Ridho Rahman Hariadi, S.Kom, M.Sc (ridho@if.its.ac.id)
    * **Topik Penelitian**: CyberSecurity, Internet of Things, Smart City, Automation
 * **Asisten:** -
@@ -12,7 +12,7 @@
 * **Jumlah Pertemuan:** 16 pertemuan, masing-masing: 3 SKS
 * **Butuh bantuan?**
    * Lihat [issues](https://github.com/2018-RealitasVirtualAugmentasi/2018-RealitasVirtualAugmentasi.github.io/issues) yang ada atau buat _issue_ baru.
-   * Melalui grup.
+   * Melalui grup LINE.
    * Kirim email ke dosen atau asisten untuk diskusi/konsultasi.
 
 ## Bahan Kajian / Pokok Bahasan
@@ -46,8 +46,12 @@ Adapun bahan kajian atau pokok bahasan dalam kuliah ini:
   * Learn GIT di https://www.codecademy.com/learn/paths/web-development
   * https://www.sekolahkoding.com/kelas/apa-itu-git/video/commit-pertama
 * Bacaan Tambahan:
+  * https://developers.google.com/ar/discover/
+  * https://github.com/jeromeetienne/AR.js/blob/master/README.md
+  * https://github.com/artoolkit/jsartoolkit5
+  * https://bitstars.github.io/droidar/
 
-### Tugas 2
+### Tugas 2 (individu) https://classroom.github.com/a/-KJUn6Tg
 * Deadline: 12-09-2018
 
 ### Tugas 3
@@ -70,6 +74,10 @@ SCL merupakan strategi pembelajaran yang menempatkan mahasiswa sebagai subyek/pe
 Kegiatan menjiplak, mengkopi, meniru, mencontek, atau mengambil hasil pekerjaan, karya, karangan, pendapat, dan sebagainya dari orang lain dan menjadikannya seolah hasil pekerjaan sendiri. 
 
 ## Referensi
+* https://developers.google.com/ar/discover/
+* https://github.com/jeromeetienne/AR.js/blob/master/README.md
+* https://github.com/artoolkit/jsartoolkit5
+* https://bitstars.github.io/droidar/
 * www.Github.com
 * www.CodeCademy.com
 * www.SekolahKoding.com
