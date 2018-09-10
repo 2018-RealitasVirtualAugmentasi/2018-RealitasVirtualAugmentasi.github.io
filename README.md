@@ -53,6 +53,7 @@ Adapun bahan kajian atau pokok bahasan dalam kuliah ini:
 
 ### Tugas 2 (individu) https://classroom.github.com/a/-KJUn6Tg
 * Deadline: 12-09-2018
+* Gunakan AR.js untuk membuat simple project Augmented Reality pada Tugas 1
 
 ### Tugas 3
 * Deadline: 19-09-2018
