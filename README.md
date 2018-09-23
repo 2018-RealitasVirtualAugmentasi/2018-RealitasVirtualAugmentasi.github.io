@@ -34,6 +34,12 @@ Adapun bahan kajian atau pokok bahasan dalam kuliah ini:
 * Demo simple project Augmented Reality
 
 ### Pertemuan 3
+* Diskusi kelompok membahas mengenai Final Project
+
+### Pertemuan 4
+* Presentasi Paper
+
+### Pertemuan 5
 * ...
 
 ## Tugas
@@ -56,7 +62,9 @@ Adapun bahan kajian atau pokok bahasan dalam kuliah ini:
 * Implementasikan AR.js ke Tugas 1 (Mengganti SDK Vuforia dengan AR.js)
 
 ### Tugas 3
-* Deadline: 19-09-2018
+* Deadline: 26-09-2018
+* Cari Paper & Video yang berhubungan dengan Augmented Reality
+* Buat file presentasi untuk paper tersebut
 
 ## Peraturan Kelas
 * Kelas ini menerapkan Student Centered Learning (SCL).
