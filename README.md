@@ -76,6 +76,18 @@ Adapun bahan kajian atau pokok bahasan dalam kuliah ini:
 * Deadline: 03-10-2018
 * Buat file presentasi proposal FP Augmented Reality
 
+### Tugas 5 https://classroom.github.com/g/tcVLL4dG
+* Deadline: 10-10-2018
+* Progress FP 1:
+  * Buat marker
+  * Buat project
+  * Tampilkan overlay objek
+
+### Tugas 6
+* Deadline: 17-10-2018
+* Progress FP 2:
+  * ..
+
 ## Peraturan Kelas
 * Kelas ini menerapkan Student Centered Learning (SCL).
 * Pada setiap pertemuan akan diberikan tugas.
